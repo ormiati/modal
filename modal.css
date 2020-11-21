@@ -29,7 +29,7 @@
 .modal-content {
     background-color: #fefefe;
     margin: auto;
-    padding: 20px;
+    padding: 50px;
     border: 1px solid #888;
     width: 80%;
 }
@@ -53,11 +53,13 @@
     float: right;
     color:#ffffff;
     background-color: #8f0707;
+    margin-left: 10px;
 }
 
 .btn-green {
     float: right;
     color:#ffffff;
     background-color: #0ccf16;
+    margin-right: 10px;
 }
 
