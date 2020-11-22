@@ -31,7 +31,18 @@
     margin: auto;
     padding: 50px;
     border: 1px solid #888;
-    width: 80%;
+    width: 100%;
+    transform: translate(-50px, -50px);
+}
+
+@media screen and (min-width:560px) {
+    
+    .modal-content {
+        margin: auto;
+        padding: 50px;
+        border: 1px solid #888;
+        width: 50%;
+    }
 }
   
   
