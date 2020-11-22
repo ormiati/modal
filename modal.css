@@ -24,9 +24,8 @@
     background-color: rgb(0,0,0); 
     background-color: rgba(0,0,0,0.4); 
     opacity: 1;
-    transition: opacity 0.3s;
+    transition: opacity 0.3s ease-in-out;
 }
-  
   
 .modal-content {
     background-color: #fefefe;

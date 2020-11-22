@@ -12,6 +12,7 @@ let btnred = document.getElementsByClassName("btn-red")[0];
  
 btn.onclick = function() {
   modal.style.display = "block";
+  modal.classList.toggle('fade');
 }
 
 span.onclick = function() {
